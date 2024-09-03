@@ -1,0 +1,9 @@
+.area {
+    h3 {
+        color: blue;
+    }
+}
+
+.rodape, .navbar {
+    background-color: rgb(44, 44, 179);
+}
